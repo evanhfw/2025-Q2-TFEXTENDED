@@ -1,0 +1,13 @@
+[project]
+name = "2025-q2-tfextended"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "jupyter>=1.1.1",
+    "pip>=25.1.1",
+    "setuptools>=80.9.0",
+    "tfx>=1.16.0",
+    "wheel>=0.45.1",
+]
