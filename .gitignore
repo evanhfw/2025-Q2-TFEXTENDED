@@ -4,3 +4,4 @@ __pycache__/
 metadata/
 pipelines/
 serving_model/
+schema/
